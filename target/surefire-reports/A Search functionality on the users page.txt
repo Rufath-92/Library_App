@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: A Search functionality on the users page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.421 s - in A Search functionality on the users page
