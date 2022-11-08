@@ -1,7 +1,8 @@
 Feature: A Search functionality on the users page
 
 
-  @Table_Header
+  # @Table_Header
+  @smoke
 Scenario: Table columns names
 Given   I am on the login page
 And     I login as librarian
