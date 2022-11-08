@@ -8,6 +8,6 @@ Feature:Library app login feature (Login with parameters)
     *     I enter password "LXHU2DkJ"
     *     Click the sign in button
     Then  dashboard should be displayed
-    *     There should be "1311" users
+    *     There should be "1339" users
 
 
